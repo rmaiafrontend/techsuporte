@@ -1,8 +1,16 @@
-# React + Vite
+# 📞 Chamados Técnicos - Front-end
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto de front-end desenvolvido em **React (JavaScript)** para gerenciamento de **Chamados Técnicos**. O sistema permite visualizar o **status**, **categorias** e o **histórico** de chamados.
 
-Currently, two official plugins are available:
+## 📋 Funcionalidades
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ✅ Visualização de chamados por status (Aberto, Em andamento, Concluído, etc.)
+- 🗂️ Filtro por categorias (Suporte, Infraestrutura, Software, etc.)
+- 🕓 Exibição do histórico de cada chamado
+
+## 🔧 Tecnologias Utilizadas
+
+- React (JS)
+- React Router (para navegação)
+- CSS Modules ou styled-components (opcional)
+- Mock de dados via arquivo JSON
